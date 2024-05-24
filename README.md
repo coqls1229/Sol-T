@@ -12,11 +12,11 @@
 ## 팀원 소개
 |멤버이름|역할|
 |------|---|
-|이준혁|DB-Retriver-Chain 구조 완성, streamlit 웹 프론트 구현|
-|이두원|공감형 대화 데이터 전처리, Faiss에 데이터 저장 및 임베딩, 유사도 측정|
-|권서연|공감형 대화 데이터 전처리, vector embeddinngs/vector DB 구조 완성|
-|최소영|Vectorstore과 연결하여 Retriever Module 구조 완성|
-|방채빈|LLM Prompt 정의 및 model과 Prompt 연결, Retriver-Chain 구조 완성|
+|이준혁| 트랙장, DB-Retriver-Chain 구조 완성, streamlit 웹 프론트 구현 |
+|이두원| 공감형 대화 데이터 전처리, Faiss에 데이터 저장 및 임베딩, 유사도 측정 |
+|권서연| 공감형 대화 데이터 전처리, vector embeddinngs/vector DB 구조 완성 |
+|최소영| Vectorstore과 연결하여 Retriever Module 구조 완성 |
+|방채빈| LLM Prompt 정의 및 model과 Prompt 연결, Retriver-Chain 구조 완성 |
 
 
 ## 주요 기능
